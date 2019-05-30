@@ -1,0 +1,11 @@
+drug	max concentration(uM)
+LLY 14d 8hrs	30
+LLY 14d 24hrs	30
+LLY 7d 8hrs	30
+LLY 7d 24hrs	30
+GSK 14d 8hrs	30
+GSK 14d 24hrs	30
+GSK 7d 8hrs	30
+GSK 7d 24hrs	30
+GSK591	30
+LLY283	30
